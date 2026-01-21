@@ -4,6 +4,8 @@
 
 ![Demo](demo.gif)
 
+Works on Safari, Chrome, Firefox and Edge.
+
 ## Why?
 
 ChatGPT doesn't show timestamps. That's insane. Now it does.
