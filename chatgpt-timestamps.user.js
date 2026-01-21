@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ChatGPT Timestamps
-// @namespace    https://github.com/mick/chatgpt-timestamps
+// @namespace    https://github.com/mickn/chatgpt-timestamps
 // @version      1.1.0
 // @description  Display timestamps on ChatGPT messages
 // @author       mick
